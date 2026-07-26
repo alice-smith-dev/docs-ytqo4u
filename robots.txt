@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-sfqw6l.indocuan.online/sitemap.xml
